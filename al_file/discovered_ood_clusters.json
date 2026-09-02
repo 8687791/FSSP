@@ -1,0 +1,1042 @@
+[
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-CSERNRVR.tif",
+        "report": "Category: STR\nDescription: The image shows a stroma with a dense, fibrous texture and presence of cancer-associated stromal cells, indicative of a cancer-associated stroma (STR).",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-MYLIAYKS.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-WESFKHSV.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-YYLFADEI.tif",
+        "report": "Category: MUC  \nDescription: The image shows a histological section with abundant mucin, characterized by the presence of a gelatinous, amorphous substance.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-IPSAFTKI.tif",
+        "report": "Category: STR  \nDescription: The image shows a stroma with a dense fibrous texture and presence of inflammatory cells, consistent with cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-MDQVDYCQ.tif",
+        "report": "Category: STR\nDescription: The image shows a stroma with a fibrous texture and scattered inflammatory cells, consistent with cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-RPRHTDQV.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-TLFVVCER.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with a well-organized architecture, consistent with normal colonic mucosa.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-FCCTTWHD.tif",
+        "report": "Category: TUM  \nDescription: The image shows a dense aggregation of atypical glandular structures with significant nuclear pleomorphism, indicative of adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-HSGYNVGL.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-QRNRYCFE.tif",
+        "report": "Category: MUC\nDescription: The image shows a substance consistent with mucus, characterized by its amorphous, lightly stained appearance and the presence of glandular structures.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-LDGWTPVR.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-DPQHLPSC.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and amorphous material consistent with debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-RRSLQIKT.tif",
+        "report": "Category: STR  \nDescription: The image shows a stroma with a fibrous texture and scattered inflammatory cells, consistent with cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-AEIIAWVH.tif",
+        "report": "Category: LYM  \nDescription: The image shows a high density of small, round cells with darkly stained nuclei, characteristic of lymphocytes.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-KRMDELSC.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-KFTCKERA.tif",
+        "report": "Category: MUC  \nDescription: The image shows a histological section with abundant mucin, characterized by the presence of a gelatinous, eosinophilic substance.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-RNIFGLSA.tif",
+        "report": "Category: LYM  \nDescription: The image shows numerous small, round cells with darkly stained nuclei, characteristic of lymphocytes.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-NQTYGMGP.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-CNQDQLNL.tif",
+        "report": "Category: LYM  \nDescription: The image shows a high density of small, round cells with darkly stained nuclei, characteristic of lymphocytes.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-LYQQKRPH.tif",
+        "report": "Category: BACK  \nDescription: The image shows a background with no distinct cellular or tissue structures.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-GEQMVDTI.tif",
+        "report": "Category: MUC  \nDescription: The image shows a pink-stained, amorphous substance consistent with mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-NWEACRES.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-VEWLHYGR.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-DNHGLTWP.tif",
+        "report": "Category: GUT\nDescription: The image shows glandular structures and mucin production, characteristic of normal colon mucosa.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NHVCDLYR.tif",
+        "report": "Category: BACK  \nDescription: The image shows a background with no distinct cellular or tissue structures.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-NQTHWHWW.tif",
+        "report": "Category: MUC  \nDescription: The image shows a substance with a mucinous appearance, characterized by a light pink background and a more densely stained, amorphous material, indicative of mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YNLDTNTG.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-MASPSAIH.tif",
+        "report": "Category: DEB\nDescription: The image shows debris, characterized by fragmented and irregularly shaped particles.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-FKQSDAYR.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with a well-organized architecture, consistent with normal colonic mucosa.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-CEKNANWG.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-DVTIDWHR.tif",
+        "report": "Category: BACK  \nDescription: The image appears to be a background artifact with no identifiable cellular or tissue structures.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-SWNRTATV.tif",
+        "report": "Category: TUM  \nDescription: The image shows a dense aggregation of atypical glandular structures with significant nuclear pleomorphism, characteristic of adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-HHSGLYAV.tif",
+        "report": "Category: TUM\nDescription: The image shows a dense aggregation of cells with a glandular structure, characteristic of adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-FERPPKDI.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with a well-organized architecture, consistent with normal colonic mucosa.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-GQSMQSDG.tif",
+        "report": "Category: DEB\nDescription: The image shows a dense accumulation of fragmented cellular debris, characterized by irregularly shaped and stained particles.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-WRELCFPC.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and amorphous material, consistent with debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-RWRYVMSG.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, consistent with the appearance of debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-LSDNKSQR.tif",
+        "report": "Category: BACK  \nDescription: The image appears to be a background or non-specific tissue section without distinct cellular or structural features.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-FCGNAVTF.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-CFSYCGGV.tif",
+        "report": "Category: MUC  \nDescription: The image shows a histological section with a prominent presence of mucin, characterized by the light purple staining and the amorphous, gel-like appearance typical of mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-LIQPTLEK.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-GYGIDMIM.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with a regular arrangement and no signs of dysplasia or neoplasia, consistent with normal colon mucosa.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-KWGHSHLD.tif",
+        "report": "Category: MUC  \nDescription: The image shows a substance with a gel-like consistency, characteristic of mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-SKGTIGGH.tif",
+        "report": "Category: TUM\nDescription: The image shows a cluster of atypical glandular structures with irregular nuclei, characteristic of adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-PQIFHMTA.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-GEPGGKKM.tif",
+        "report": "Category: DEB\nDescription: The image shows debris, characterized by fragmented and irregularly shaped cellular remnants.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-LCKSAMTC.tif",
+        "report": "Category: LYM  \nDescription: The image shows a dense population of small, round cells with darkly stained nuclei, characteristic of lymphocytes.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-QSPSYAMI.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with a regular arrangement and no signs of dysplasia or malignancy, consistent with normal colon mucosa.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-PYQAYQDH.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-NQFQVVMS.tif",
+        "report": "Category: MUC\nDescription: The image shows a histological section with abundant mucin, characterized by the presence of a gelatinous, eosinophilic substance.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-FINTPGAR.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, indicative of tissue breakdown or necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NKDMTLVH.tif",
+        "report": "Category: BACK  \nDescription: The image shows a background with no distinct cellular structures or specific tissue types.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-ANVADANI.tif",
+        "report": "Category: BACK  \nDescription: The image shows a background with minimal cellular detail, likely representing the extracellular matrix or stromal area.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-MFHNPDLE.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-KVFGTIQF.tif",
+        "report": "Category: MUC  \nDescription: The image shows a histological section with abundant mucin, characterized by the presence of mucin pools and goblet cells, indicative of mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-RGHVAPCA.tif",
+        "report": "Category: STR\nDescription: The image shows a stroma with a dense fibrous texture and scattered inflammatory cells, indicative of cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-EWYHTRAH.tif",
+        "report": "Category: LYM  \nDescription: The image shows a high density of small, round cells with darkly stained nuclei, characteristic of lymphocytes.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-GLKRLTKG.tif",
+        "report": "Category: BACK  \nDescription: The image shows a background with no distinct cellular or tissue structures.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-NKIAVGTF.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, indicative of tissue breakdown or necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-SEEGKAVN.tif",
+        "report": "Category: MUC  \nDescription: The image shows a section with abundant mucin, characterized by the presence of mucin pools and goblet cells, indicative of mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-LHNAGISF.tif",
+        "report": "Category: STR  \nDescription: The image shows a stroma with a dense fibrous texture and presence of inflammatory cells, consistent with cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-KAFLCQQV.tif",
+        "report": "Category: BACK  \nDescription: The image shows a background with no distinct cellular or tissue structures, indicating it is likely a non-specific background.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-GPDVEMMY.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-EKDESDFQ.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, consistent with the appearance of debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-GASSMDCE.tif",
+        "report": "Category: BACK  \nDescription: The image shows a background with no specific cellular or tissue structures identifiable.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-DMCWFRIV.tif",
+        "report": "Category: BACK  \nDescription: The image appears to be a background artifact, likely due to staining or imaging artifacts, rather than representing any specific tissue or cellular structure.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-PKVHERHC.tif",
+        "report": "Category: STR\nDescription: The image shows a stroma with a dense, fibrous texture and scattered inflammatory cells, characteristic of cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-WYFNSQAF.tif",
+        "report": "Category: STR  \nDescription: The image shows a stroma with a dense fibrous texture and scattered inflammatory cells, characteristic of cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-FWFITGLS.tif",
+        "report": "Category: STR\nDescription: The image shows a stroma with a fibrous texture and scattered inflammatory cells, consistent with cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-KQNSCLFP.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-VLIIDAHS.tif",
+        "report": "Category: LYM  \nDescription: The image shows a high density of small, round cells with darkly stained nuclei, characteristic of lymphocytes.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-KGGFVTCQ.tif",
+        "report": "Category: STR  \nDescription: The image shows a stroma with a dense fibrous texture and scattered inflammatory cells, indicative of a cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-QVTAMNNK.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-VNENYQSH.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-NDTVVVLP.tif",
+        "report": "Category: MUC  \nDescription: The image shows a histological section with abundant mucin, characterized by the presence of a pink-stained extracellular matrix and numerous mucin-producing cells.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-AFTYIHEF.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and amorphous material, consistent with debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-SQFSKFTH.tif",
+        "report": "Category: MUC  \nDescription: The image shows a substance with a gel-like consistency and a light staining pattern, characteristic of mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-HKHSVCMS.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-MACRLWKM.tif",
+        "report": "Category: MUC  \nDescription: The image shows a substance with a gel-like consistency and a light pink staining, characteristic of mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YDMISHWG.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-EGLKTYGL.tif",
+        "report": "Category: MUC  \nDescription: The image shows a histological section with abundant mucin, characterized by the presence of a pink-stained background with scattered dark purple nuclei, indicative of mucus production.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-FSKCRGNG.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped debris, consistent with cellular debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-FLTFEFGA.tif",
+        "report": "Category: MUC  \nDescription: The image shows a histological section with abundant mucin, characterized by the presence of a pink-stained extracellular matrix and scattered mucin pools.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-KYDPKEDL.tif",
+        "report": "Category: BACK  \nDescription: The image shows a background with no distinct cellular or tissue structures, likely representing the staining medium or non-specific areas.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-CMLHVDLL.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, indicative of tissue breakdown or necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-CARDWSTR.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with a well-organized architecture, consistent with normal colonic mucosa.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-NDVWNPTC.tif",
+        "report": "Category: BACK  \nDescription: The image appears to be a background artifact, lacking specific cellular or tissue structures.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-IEHQNSRT.tif",
+        "report": "Category: TUM\nDescription: The image shows a dense aggregation of cells with irregular shapes and sizes, characteristic of adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-DVSSMRQK.tif",
+        "report": "Category: STR\nDescription: The image shows a dense, fibrous stroma with a high cellularity, consistent with cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-ELWFQCPA.tif",
+        "report": "Category: STR  \nDescription: The image shows a stroma with a fibrous and cellular appearance, consistent with cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-YTGDRMHH.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and amorphous material consistent with debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-SRMDKHNM.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular architecture and cellular atypia, characteristic of adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-TSPVYKLQ.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, indicative of tissue breakdown or necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-GCNIHGDH.tif",
+        "report": "Category: LYM  \nDescription: The image shows a high density of small, round cells with darkly stained nuclei, characteristic of lymphocytes.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-MDQQWGGI.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, indicative of tissue breakdown or necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-ANYNYRAD.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-WETYEVYH.tif",
+        "report": "Category: LYM  \nDescription: The image shows a dense population of small, round cells with darkly stained nuclei, characteristic of lymphocytes.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-HMPTGEDP.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped debris, consistent with cellular and extracellular material breakdown.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-CKWHEMMF.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and disorganized cellular debris, indicative of tissue breakdown or necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-QNEVGCPT.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-NRGGMIWI.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-CRAMVAYF.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, indicative of tissue breakdown or necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-GWMAWQEF.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with a cribriform pattern and nuclear atypia, characteristic of adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-RPNQGCPQ.tif",
+        "report": "Category: STR  \nDescription: The image shows a stroma with a dense fibrous texture and scattered inflammatory cells, characteristic of cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-WVPCFFRC.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, indicative of tissue breakdown or necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-CEEGRPVD.tif",
+        "report": "Category: DEB\nDescription: The image shows a dense accumulation of fragmented cellular debris, characterized by irregular shapes and a lack of organized tissue structure.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-VHLHPLKR.tif",
+        "report": "Category: LYM  \nDescription: The image shows a high density of small, round cells with darkly stained nuclei, characteristic of lymphocytes.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-VKQFNITK.tif",
+        "report": "Category: TUM  \nDescription: The image shows densely packed cells with irregular nuclei, characteristic of adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-IMWHAKWY.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, indicative of tissue breakdown or necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-CMGNTFKM.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, consistent with the appearance of debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-DGDMYKLV.tif",
+        "report": "Category: TUM\nDescription: The image shows densely packed cells with irregular nuclei, characteristic of adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-FSCNPNAN.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-DYYKHPWP.tif",
+        "report": "Category: BACK  \nDescription: The image appears to be a background or non-specific tissue section without distinct cellular or structural features.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-IYPAPGPK.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-DNDITINV.tif",
+        "report": "Category: GUS\nDescription: The image shows glandular structures with mucin production, characteristic of glandular epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-YWYAAIKA.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with a cribriform pattern and nuclear atypia, consistent with adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-QPTNQDAD.tif",
+        "report": "Category: DEB\nDescription: The image shows a dense accumulation of fragmented cellular debris, indicative of tissue breakdown and necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-KDRSYIKE.tif",
+        "report": "Category: LYM  \nDescription: The image shows a high density of small, round cells with darkly stained nuclei, characteristic of lymphocytes.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-KDVHKHQK.tif",
+        "report": "Category: MUC  \nDescription: The image shows a mucinous substance, characterized by the presence of a gel-like, amorphous material with scattered cellular elements, typical of mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-AVDTSMHS.tif",
+        "report": "Category: TUM\nDescription: The image shows densely packed cells with irregular nuclei, characteristic of adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-GMATGCKR.tif",
+        "report": "Category: TUM\nDescription: The image shows densely packed cells with irregular nuclei, characteristic of adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-MIYASFPM.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with a well-organized arrangement of epithelial cells, consistent with normal colonic mucosa.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-MFSCFNVE.tif",
+        "report": "Category: MUC  \nDescription: The image shows a histological section with abundant mucin, characterized by the presence of mucin pools and goblet cells, consistent with mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-CEKYDFWD.tif",
+        "report": "Category: GUS\nDescription: The image shows glandular structures with mucin production, characteristic of glandular epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-IGWMVKFY.tif",
+        "report": "Category: BACK  \nDescription: The image shows a background with no distinct cellular or tissue structures.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-EAKCQWQV.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-KLYYSTRK.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-MGGYKNAY.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with a regular arrangement and uniform appearance, characteristic of normal colon mucosa.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-GGLGNENV.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-GVEYQLSQ.tif",
+        "report": "Category: MUC  \nDescription: The image shows a structure consistent with mucus, characterized by a gel-like appearance and the presence of goblet cells.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-AQNVYMFW.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-DNCMRSIE.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with a well-organized architecture, consistent with normal colonic mucosa.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-RHSATHGS.tif",
+        "report": "Category: MUC  \nDescription: The image shows a histological section with abundant mucin, characterized by the presence of a gelatinous, eosinophilic substance.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-CSWESHKA.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-KSVTRFHT.tif",
+        "report": "Category: DEB\nDescription: The image shows a dense accumulation of particulate matter, consistent with debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-CRITMVAV.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, consistent with the appearance of debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-KADHRWWR.tif",
+        "report": "Category: DEB\nDescription: The image shows a dense accumulation of fragmented cellular debris, characterized by irregularly shaped and disorganized structures.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-TLATGTVF.tif",
+        "report": "Category: MUC  \nDescription: The image shows a structure consistent with mucus, characterized by the presence of a gel-like substance and a lack of cellular detail.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-PDDCRYCC.tif",
+        "report": "Category: TUM\nDescription: The image shows densely packed cells with irregular nuclei, characteristic of adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-PPQHRTDR.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with a well-organized architecture, consistent with normal colonic mucosa.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-LLWTDQAA.tif",
+        "report": "Category: GUS\nDescription: The image shows glandular structures with mucin production, characteristic of glandular epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-SAGDFPII.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and amorphous material, consistent with debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-AHCMHSMK.tif",
+        "report": "Category: STR  \nDescription: The image shows a stroma with a fibrous and cellular composition, indicative of cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-DFVPKYNQ.tif",
+        "report": "Category: BACK  \nDescription: The image shows a background staining with no distinct cellular or tissue structures present.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-KDLNHSMF.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-VHMLKECF.tif",
+        "report": "Category: STR\nDescription: The image shows a dense, fibrous stroma with a mix of cellular and acellular components, consistent with cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-EQMDRLWN.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/ADI/ADI-PAYCFMMD.tif",
+        "report": "Category: MUC  \nDescription: The image shows a substance with a gel-like consistency, characteristic of mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-LLKYFADT.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, indicative of tissue breakdown or necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-DQGKRSEK.tif",
+        "report": "Category: STR  \nDescription: The image shows a stroma with a dense fibrous texture and presence of inflammatory cells, consistent with cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-EADARAHG.tif",
+        "report": "Category: STR  \nDescription: The image shows a dense, fibrous stroma with a high cellularity, characteristic of cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-EKFHPIKC.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with irregular, crowded epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-IKWLCALD.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-MDQDVQHW.tif",
+        "report": "Category: MUC  \nDescription: The image shows a substance with a gel-like consistency and a pinkish hue, characteristic of mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-DCEFLELF.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with a regular arrangement and no signs of dysplasia or malignancy, consistent with normal colon mucosa.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-TWPVYYQA.tif",
+        "report": "Category: MUC  \nDescription: The image shows a structure consistent with mucus, characterized by a clear, amorphous appearance and the presence of cellular debris.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-CCMIKISY.tif",
+        "report": "Category: MUC  \nDescription: The image shows a histological section with a prominent presence of mucin, characterized by the pink-stained, amorphous material and the presence of mucin-producing cells.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-FKTGIGMG.tif",
+        "report": "Category: DEB\nDescription: The image shows debris, characterized by fragmented and irregularly shaped cellular material.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-HVLMTMYI.tif",
+        "report": "Category: TUM\nDescription: The image shows a section of tissue with glandular structures and epithelial cells, characteristic of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-VMVEWSRK.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, indicative of tissue breakdown or necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-WCPWIEYD.tif",
+        "report": "Category: STR  \nDescription: The image shows a stroma with a fibrous texture and scattered inflammatory cells, consistent with cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-KIIASDCL.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and amorphous material, consistent with debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-SQQKEALR.tif",
+        "report": "Category: MUC  \nDescription: The image shows a histological section with abundant mucin, characterized by the presence of a gelatinous, lightly stained substance interspersed with cellular elements.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-KGLCNTIH.tif",
+        "report": "Category: TUM  \nDescription: The image shows densely packed cells with irregular nuclei, characteristic of adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-QSLMNNHT.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-QTFNENMS.tif",
+        "report": "Category: MUC  \nDescription: The image shows a structure consistent with mucus, characterized by a gel-like appearance and a loose, fibrous texture.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-FVGPSDGS.tif",
+        "report": "Category: BACK  \nDescription: The image shows a background staining with no distinct cellular or tissue structures present.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-IVLTCQVI.tif",
+        "report": "Category: BACK  \nDescription: The image appears to be a background with no specific cellular or tissue structures visible.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUS/MUS-IALRSMEE.tif",
+        "report": "Category: MUC  \nDescription: The image shows a histological section with abundant mucin, characterized by the presence of mucin pools and goblet cells, consistent with mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-ATSMLEDD.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-CRYCMCME.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with a well-organized architecture, consistent with normal colonic mucosa.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-QKMAHCWK.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented cellular debris, characterized by irregularly shaped and dispersed cellular remnants.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-IRDTTQPP.tif",
+        "report": "Category: LYM  \nDescription: The image shows a dense population of small, round cells with darkly stained nuclei, characteristic of lymphocytes.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-WLETKVYI.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, indicative of tissue breakdown or necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-WSNMEQHC.tif",
+        "report": "Category: TUM  \nDescription: The image shows densely packed cells with irregular nuclei, characteristic of adenocarcinoma epithelium.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-HADEKAQQ.tif",
+        "report": "Category: MUC\nDescription: The image shows a histological section with abundant mucin, characterized by the presence of a gelatinous, eosinophilic substance.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-PGIFLWQR.tif",
+        "report": "Category: DEB\nDescription: The image shows a dense accumulation of fragmented cellular debris, indicative of tissue breakdown and necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-RLEEMTHD.tif",
+        "report": "Category: DEB\nDescription: The image shows a dense accumulation of fragmented cellular debris, characterized by irregular shapes and a lack of organized tissue structure.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-EVHMMPLD.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and non-uniform material consistent with debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-LDGAKGCA.tif",
+        "report": "Category: DEB\nDescription: The image shows a dense accumulation of particulate matter, consistent with debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-CHSLKQDA.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-LIDTETMW.tif",
+        "report": "Category: LYM  \nDescription: The image shows a high density of small, round cells with darkly stained nuclei, characteristic of lymphocytes.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-HPMDEEIQ.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-TYIQYADH.tif",
+        "report": "Category: MUC  \nDescription: The image shows a substance consistent with mucus, characterized by its amorphous, lightly stained appearance.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-GVAHRDIT.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and amorphous material, consistent with debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-FCFAGMPW.tif",
+        "report": "Category: STR  \nDescription: The image shows a dense, fibrous stroma with a mix of cellular and acellular components, consistent with cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-HPTYWHMI.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and amorphous material consistent with debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-WDKGNLYT.tif",
+        "report": "Category: STR  \nDescription: The image shows a stroma with a dense fibrous texture and scattered inflammatory cells, consistent with cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-PEQVTVCP.tif",
+        "report": "Category: TUM  \nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-CTDDPWWE.tif",
+        "report": "Category: DEB\nDescription: The image shows a dense accumulation of particulate matter, consistent with debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-QSVYIAWI.tif",
+        "report": "Category: MUC\nDescription: The image shows a histological section with a prominent presence of mucin, characterized by the light, amorphous, and eosinophilic staining typical of mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-ECDTMRGY.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-RYISKFWV.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-CHVSVSTQ.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-DNLDSDHD.tif",
+        "report": "Category: DEB\nDescription: The image shows a dense accumulation of particulate matter, consistent with debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-APFVPGGM.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/STR/STR-LFAWPQYP.tif",
+        "report": "Category: STR  \nDescription: The image shows a stroma with a fibrous texture and scattered inflammatory cells, consistent with cancer-associated stroma.",
+        "discovered_cluster": 1
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/BACK/BACK-PAEKYCEN.tif",
+        "report": "Category: BACK  \nDescription: The image shows a background with no distinct cellular or tissue structures, likely representing a non-specific staining artifact or empty space.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/NORM/NORM-KIKSIYNY.tif",
+        "report": "Category: G\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-SRADFDTY.tif",
+        "report": "Category: MUC\nDescription: The image shows a substance with a gel-like consistency and a pinkish hue, characteristic of mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-IPKIYADF.tif",
+        "report": "Category: MUC  \nDescription: The image shows a structure consistent with mucus, characterized by a clear, amorphous appearance and a lack of cellular detail.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/TUM/TUM-DAGEWQMC.tif",
+        "report": "Category: TUM  \nDescription: The image shows a dense aggregation of atypical epithelial cells with irregular nuclei, characteristic of adenocarcinoma.",
+        "discovered_cluster": 2
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-KTDHFKNA.tif",
+        "report": "Category: DEB\nDescription: The image shows a dense accumulation of fragmented cellular debris, indicative of tissue breakdown or necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/DEB/DEB-IMCKAWRI.tif",
+        "report": "Category: DEB\nDescription: The image shows a collection of fragmented and irregularly shaped cellular debris, indicative of tissue breakdown or necrosis.",
+        "discovered_cluster": 3
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/LYM/LYM-MPEPASWK.tif",
+        "report": "Category: TUM\nDescription: The image shows glandular structures with atypical epithelial cells, indicative of adenocarcinoma.",
+        "discovered_cluster": 4
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-RETHGKVP.tif",
+        "report": "Category: MUC  \nDescription: The image shows a substance with a gelatinous, amorphous appearance, consistent with mucus.",
+        "discovered_cluster": 0
+    },
+    {
+        "img_name": "/root/gpufree-data/OpenPath-main/data/NCT-CRC-HE-100K/MUC/MUC-QSTFWDNP.tif",
+        "report": "Category: MUC  \nDescription: The image shows a histological section with abundant mucin, characterized by the presence of a gelatinous, eosinophilic substance.",
+        "discovered_cluster": 0
+    }
+]
